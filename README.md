@@ -13,3 +13,8 @@ instructions sont exécutées une par une.
 Le processeur récupère les instructions depuis la mémoire de
 programme, les interprète, effectue l'opération appropriée et
 stocke les résultats.
+
+
+
+
+![image1](https://github.com/maghwa/processor-8-bits-SAP/assets/87017143/a44dd6b9-4256-45bc-b14a-0f1e6efa67ba)
